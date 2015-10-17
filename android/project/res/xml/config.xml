@@ -59,6 +59,5 @@
     <access origin="cdv:*" />
     <access origin="gap:*" />
     <access origin="http://meteor.local/*" />
-    <access origin="*://localhost/*" />
-    <access origin="*://10.0.2.2/*" />
+    <access origin="*://codebootcamp.info/*" />
 </widget>
